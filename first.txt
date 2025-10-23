@@ -1,1 +1,33 @@
-hello
+
+how Q13 - GCD of a given three numbers
+Write a program to print the GCD of given three numbers?
+
+
+Constraints:
+Input          :- First Line of Input Consists of One Integer Value (n1).
+
+                     Second Line of Input Consists of One Integer Value (n2).
+
+                     Third Line of Input Consists of One Integer Value (n3).
+
+Output        :- Print the GCD of given three values.
+
+Constraints  :-
+
+                     'n1' Value is Must be Greater than zero or else Print "Invalid First Input".
+
+                     'n2' Value is Must be Greater than zero or else Print "Invalid Second Input".
+
+                     'n3' Value is Must be Greater than zero or else Print "Invalid Third Input".
+
+                     In the Given Three Inputs if any of two or three values are less than or Equal to zero then Print "Invalid Inputs".
+
+ 
+
+
+Example:
+Input 1  :    24
+
+                  34
+
+                  44 
